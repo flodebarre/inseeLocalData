@@ -36,7 +36,7 @@ vous référer à la documentation de l’API (dans l’onglet Documentation) :
     service web mis à disposition par l’Insee pour l’accès aux données
     locales. Il est vivement conseillé de lire cette documentation avant
     d’utiliser l’API.
-  - Pour chaque source, un fchier Excel documentant toute l’information
+  - Pour chaque source, un fichier Excel documentant toute l’information
     présente dans l’API est mis à disposition.
 
 ## Installation
